@@ -177,3 +177,4 @@ Constraints를 업데이트
 - https://beingdesigner.tistory.com/59
 - https://wlgusdn700.tistory.com/109
 - https://baechukim.tistory.com/27
+- https://velog.io/@wonhee010/View-Life-Cycle
